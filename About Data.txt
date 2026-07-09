@@ -1,0 +1,62 @@
+About Dataset
+📱 About Dataset
+Overview
+This Social Media Engagement Dataset contains comprehensive engagement metrics from 5,000 social media posts across six major platforms: Instagram, Twitter, Facebook, LinkedIn, TikTok, and YouTube. The dataset spans over 2 years (2024-2025) and provides valuable insights into content performance, audience engagement patterns, and influencer analytics.
+
+Dataset Contents
+The dataset includes 20 detailed features covering various aspects of social media engagement:
+
+Post Information
+Post_ID: Unique identifier for each post
+Timestamp: Date and time when the post was published
+Platform: Social media platform (Instagram, Twitter, Facebook, LinkedIn, TikTok, YouTube)
+Content_Type: Type of content (Photo, Video, Reel, Tweet, Story, etc.)
+Category: Content category (Technology, Fashion, Food, Travel, Fitness, Education, Entertainment, Business, Lifestyle, Gaming, Health, Sports)
+Engagement Metrics
+Likes: Number of likes/reactions received
+Comments: Number of comments on the post
+Shares: Number of shares/retweets/reposts
+Views: Total number of views
+Saves: Number of bookmarks/saves
+Engagement_Rate: Calculated engagement rate percentage
+Account Information
+Follower_Count: Number of followers of the account
+Influencer_Tier: Classification (Nano, Micro, Mid-tier, Macro)
+Is_Verified: Whether the account is verified (True/False)
+Content Characteristics
+Hashtag_Count: Number of hashtags used
+Content_Length: Length in characters (text) or seconds (video)
+Sentiment: Sentiment analysis (Positive, Neutral, Negative)
+Has_Media: Whether post contains media (True/False)
+Temporal Features
+Hour_of_Day: Hour when the post was published (0-23)
+Day_of_Week: Day of the week (Monday-Sunday)
+Use Cases
+This dataset is perfect for:
+
+📊 Predictive Analytics: Build ML models to predict engagement rates
+📈 Data Visualization: Create insightful dashboards and charts
+🤖 Machine Learning: Classification, regression, and clustering tasks
+⏰ Time Series Analysis: Analyze posting patterns and optimal timing
+🎯 Content Strategy: Optimize content strategy based on data insights
+🔍 Sentiment Analysis: Study correlation between sentiment and engagement
+📱 Platform Comparison: Compare performance across different platforms
+💼 Influencer Marketing: Analyze influencer tier performance
+Technical Details
+Format: CSV
+Size: ~651 KB
+Rows: 5,000
+Columns: 20
+Time Period: January 2024 - December 2025
+Missing Values: None
+Potential Research Questions
+What time of day generates the most engagement?
+Which platform has the highest engagement rates?
+How does content type affect performance?
+Does verified status impact engagement?
+What's the optimal hashtag count?
+How does sentiment correlate with engagement?
+Notes
+Engagement metrics are platform-realistic and proportional
+All data is synthetically generated for educational and research purposes
+Suitable for beginners and advanced data scientists
